@@ -96,7 +96,7 @@ Household income was summarized and compared across relevant customer groups to 
 
 ## Dashboard
 
-A dashboard visual can be added here to provide a quick view of the completed Excel analysis.
+![Car Insurance Analysis Excel Dashboard](images/car_insurance_analysis_dashboard.png)
 
 ## Skills Demonstrated
 
